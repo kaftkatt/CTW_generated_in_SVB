@@ -1,6 +1,6 @@
 ### Notebooks and code for the paper: "Multi-scale bathymetric modulation of coastal trapped waves generated in Sebastián Vizcaíno Bay, Baja California"
 
-A. Thelandersson, K. Ramos-Musalem, S. T. Gille, B. D. Cornuelle and M. R. Mazloff
+A. Thelandersson, K. Ramos-Musalem, B. D. Cornuelle, S. T. Gille and M. R. Mazloff
 
 This repository is divided into:
 
