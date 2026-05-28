@@ -1,0 +1,15 @@
+name: SVB
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - dask
+  - scipy
+  - xarray
+  - python
+  - jupyterlab
+  - matplotlib
+  - seaborn
+  - netcdf4
+  - cartopy
+  - cmocean
